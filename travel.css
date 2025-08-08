@@ -5,7 +5,8 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('C:\...Users\vinod\OneDrive\Documents\New folder\OneDrive\Pictures\images\image.jpg');
+    background-image: url('images/image.jpg');
+
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -281,6 +282,7 @@ footer {
     padding: 10px;
 
 }
+
 
 
 
