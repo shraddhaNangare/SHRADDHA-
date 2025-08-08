@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('../OneDrive/Documents/New folder/OneDrive/Pictures/images/image.jpg');
+    background-image: url('image.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -279,4 +279,5 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px;
+
 }
