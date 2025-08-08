@@ -1,0 +1,32 @@
+.order-section{
+    padding: 60px 20px;
+    background-color: #e7ecff;
+}
+.order-container{
+    max-width: 600px;
+    margin: auto;
+    background: #fdfeff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+}
+.order-form Form{
+    display: flex;
+    flex-direction: column;
+}
+.order-form Label{
+    margin-top: 15px;
+    font-weight: 500;
+    color: #333;
+}
+.order-form input,
+.order-form textarea,
+.order-form select{
+    margin-top: 8px;
+    padding: 12px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    outline: none;
+    
+}
